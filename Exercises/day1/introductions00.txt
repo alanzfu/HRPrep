@@ -9,7 +9,7 @@ the last remain bits, carrier services
 ~~Programming in HS, Pascal/C/C++~~ but basically forgot everything.
 ###3. Why do they want to learn how to code?
 Wet appetite back into software, possibly a career change
-###4. What are their goals for Prep Course?
+###4. What are their goals for Prep Course
   Re-introduce to programming, palette test for software
 ###5. What are their hobbies?
 - Muay Thai kickboxing
